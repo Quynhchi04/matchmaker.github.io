@@ -1,9 +1,10 @@
 import React from 'react';
 import Typed from 'react-typed';
+import { Link } from 'react-scroll';
 
 const Hero = () => {
   return (
-    <div className='text-white'>
+    <div name='home' className='text-white' >
       <div className='max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
         <p className='text-[#17fff3] font-bold p-2'>
         Report Website
@@ -24,7 +25,7 @@ const Hero = () => {
           />
         </div>
         <p className='md:text-2xl text-xl font-bold text-gray-500'>An assignment for Introduction to IT (COSC2083) about the IT industry, latest technologies, and our team's Project Ideas.</p>
-        <button className='bg-[#17fff3] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
+        <button className='bg-[#17fff3] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'><Link to='profile' smooth={true} duration={500}>Get Started</Link></button>
       </div>
     </div>
   );

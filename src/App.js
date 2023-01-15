@@ -7,6 +7,7 @@ import Outcome from "./components/outcome";
 import Reflect from "./components/reflection";
 import Profile from "./components/profile";
 import Tools from "./components/tools";
+import Ref from "./components/ref";
 
 function App() {
   return (
@@ -14,11 +15,12 @@ function App() {
       <Navbar />
       <Hero />
       <Profile />
+      <Tools />
       <About />
       <Skills />
       <Outcome />
       <Reflect />
-      <Tools />
+      <Ref />
     </div>
   );
 }
