@@ -30,7 +30,6 @@ https://medium.com/swlh/dating-data-an-overview-of-the-algorithm-afb9f0c08e2c (a
 [17] A. Hayes, “The Human Attention Span [INFOGRAPHIC] | Wyzowl,” Wyzowl. https://www.wyzowl.com/human-attention-span/ (accessed Jan. 15, 2023).</li>
                 <li className='font-medium text-gray-400'>J. A. Ribeiro Neto (Zezinho), “Tools for Data Analysis used in Data Science, ML and Big Data,” Medium, Sep. 23, 2021. https://medium.com/xnewdata/tools-for-data-analysis-used-in-data-science-ml-and-big-data-87e07e1ddb0 (accessed Jan. 15, 2023).</li>
                 <li className='font-medium text-gray-400'>A. Difranza, “What Does A Business Analyst Do?,” Northeastern University Graduate Programs, Feb. 08, 2021. https://www.northeastern.edu/graduate/blog/what-does-a-business-analyst-do/ (accessed Jan. 15, 2023).</li>
-
             </ul>
         </div>
       : null}
