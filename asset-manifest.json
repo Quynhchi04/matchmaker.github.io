@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Quynhchi04.github.io/matchmaker.github.io/static/css/main.a84bd294.css",
-    "main.js": "/Quynhchi04.github.io/matchmaker.github.io/static/js/main.d695523a.js",
-    "static/media/chi's profile photo.jpg": "/Quynhchi04.github.io/matchmaker.github.io/static/media/chi's profile photo.f15d6be3294384ed4794.jpg",
-    "static/media/tung's profile photo.jpg": "/Quynhchi04.github.io/matchmaker.github.io/static/media/tung's profile photo.1402c97bfef0badb8681.jpg",
-    "static/media/son's profile photo.jpg": "/Quynhchi04.github.io/matchmaker.github.io/static/media/son's profile photo.90753ca7c0967c42f329.jpg",
-    "static/media/login.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/login.c1a7bdf8deef8c494a67.png",
-    "static/media/questions.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/questions.64d0e7d1f3c1e700230c.png",
-    "static/media/reflect.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/reflect.7cee1b3bea96fb113cf4.png",
-    "static/media/thang's profile photo.jpg": "/Quynhchi04.github.io/matchmaker.github.io/static/media/thang's profile photo.b32e49ae06f330c45036.jpg",
-    "static/media/outcome.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/outcome.8c020bfe658026b4972d.png",
-    "static/media/about.jpeg": "/Quynhchi04.github.io/matchmaker.github.io/static/media/about.a3f20efc17d18739944d.jpeg",
-    "static/media/texting.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/texting.980b7f4f47358b44372c.png",
-    "static/media/tools.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/tools.2111bf98ea7fd16ff54e.png",
-    "static/media/Main.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/Main.debc806c20afa8e667a7.png",
-    "static/media/Matched.png": "/Quynhchi04.github.io/matchmaker.github.io/static/media/Matched.16fd9c6c024e3f5421e4.png",
-    "static/media/skills.webp": "/Quynhchi04.github.io/matchmaker.github.io/static/media/skills.2f24e55f34e5e7e53d3e.webp",
-    "index.html": "/Quynhchi04.github.io/matchmaker.github.io/index.html",
-    "main.a84bd294.css.map": "/Quynhchi04.github.io/matchmaker.github.io/static/css/main.a84bd294.css.map",
-    "main.d695523a.js.map": "/Quynhchi04.github.io/matchmaker.github.io/static/js/main.d695523a.js.map"
+    "main.css": "/matchmaker.github.io/static/css/main.a84bd294.css",
+    "main.js": "/matchmaker.github.io/static/js/main.8aa86228.js",
+    "static/media/chi's profile photo.jpg": "/matchmaker.github.io/static/media/chi's profile photo.f15d6be3294384ed4794.jpg",
+    "static/media/tung's profile photo.jpg": "/matchmaker.github.io/static/media/tung's profile photo.1402c97bfef0badb8681.jpg",
+    "static/media/son's profile photo.jpg": "/matchmaker.github.io/static/media/son's profile photo.90753ca7c0967c42f329.jpg",
+    "static/media/login.png": "/matchmaker.github.io/static/media/login.c1a7bdf8deef8c494a67.png",
+    "static/media/questions.png": "/matchmaker.github.io/static/media/questions.64d0e7d1f3c1e700230c.png",
+    "static/media/reflect.png": "/matchmaker.github.io/static/media/reflect.7cee1b3bea96fb113cf4.png",
+    "static/media/thang's profile photo.jpg": "/matchmaker.github.io/static/media/thang's profile photo.b32e49ae06f330c45036.jpg",
+    "static/media/outcome.png": "/matchmaker.github.io/static/media/outcome.8c020bfe658026b4972d.png",
+    "static/media/about.jpeg": "/matchmaker.github.io/static/media/about.a3f20efc17d18739944d.jpeg",
+    "static/media/texting.png": "/matchmaker.github.io/static/media/texting.980b7f4f47358b44372c.png",
+    "static/media/tools.png": "/matchmaker.github.io/static/media/tools.2111bf98ea7fd16ff54e.png",
+    "static/media/Main.png": "/matchmaker.github.io/static/media/Main.debc806c20afa8e667a7.png",
+    "static/media/Matched.png": "/matchmaker.github.io/static/media/Matched.16fd9c6c024e3f5421e4.png",
+    "static/media/skills.webp": "/matchmaker.github.io/static/media/skills.2f24e55f34e5e7e53d3e.webp",
+    "index.html": "/matchmaker.github.io/index.html",
+    "main.a84bd294.css.map": "/matchmaker.github.io/static/css/main.a84bd294.css.map",
+    "main.8aa86228.js.map": "/matchmaker.github.io/static/js/main.8aa86228.js.map"
   },
   "entrypoints": [
     "static/css/main.a84bd294.css",
-    "static/js/main.d695523a.js"
+    "static/js/main.8aa86228.js"
   ]
 }
