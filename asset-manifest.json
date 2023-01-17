@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/the-matchmakers/static/css/main.a84bd294.css",
+    "main.js": "/the-matchmakers/static/js/main.71350091.js",
+    "static/media/chi's profile photo.jpg": "/the-matchmakers/static/media/chi's profile photo.f15d6be3294384ed4794.jpg",
+    "static/media/tung's profile photo.jpg": "/the-matchmakers/static/media/tung's profile photo.1402c97bfef0badb8681.jpg",
+    "static/media/son's profile photo.jpg": "/the-matchmakers/static/media/son's profile photo.90753ca7c0967c42f329.jpg",
+    "static/media/login.png": "/the-matchmakers/static/media/login.c1a7bdf8deef8c494a67.png",
+    "static/media/questions.png": "/the-matchmakers/static/media/questions.64d0e7d1f3c1e700230c.png",
+    "static/media/reflect.png": "/the-matchmakers/static/media/reflect.7cee1b3bea96fb113cf4.png",
+    "static/media/thang's profile photo.jpg": "/the-matchmakers/static/media/thang's profile photo.b32e49ae06f330c45036.jpg",
+    "static/media/outcome.png": "/the-matchmakers/static/media/outcome.8c020bfe658026b4972d.png",
+    "static/media/about.jpeg": "/the-matchmakers/static/media/about.a3f20efc17d18739944d.jpeg",
+    "static/media/texting.png": "/the-matchmakers/static/media/texting.980b7f4f47358b44372c.png",
+    "static/media/tools.png": "/the-matchmakers/static/media/tools.2111bf98ea7fd16ff54e.png",
+    "static/media/Main.png": "/the-matchmakers/static/media/Main.debc806c20afa8e667a7.png",
+    "static/media/Matched.png": "/the-matchmakers/static/media/Matched.16fd9c6c024e3f5421e4.png",
+    "static/media/skills.webp": "/the-matchmakers/static/media/skills.2f24e55f34e5e7e53d3e.webp",
+    "index.html": "/the-matchmakers/index.html",
+    "main.a84bd294.css.map": "/the-matchmakers/static/css/main.a84bd294.css.map",
+    "main.71350091.js.map": "/the-matchmakers/static/js/main.71350091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a84bd294.css",
+    "static/js/main.71350091.js"
+  ]
+}
