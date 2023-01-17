@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "main -d build -r https://github.com/Quynhchi04/the-matchmakers",
+    "deploy": "gh-pages -d build -r https://github.com/Quynhchi04/the-matchmakers",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
